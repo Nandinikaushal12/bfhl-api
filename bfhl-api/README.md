@@ -20,6 +20,5 @@ Health check endpoint.
 - Express.js
 - Google Gemini API
 
-## Deployment
-Deployed using Render / Vercel (URL below).
+
 

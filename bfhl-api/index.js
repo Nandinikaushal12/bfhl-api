@@ -138,6 +138,7 @@ app.get("/health", (req, res) => {
   });
 });
 
-app.listen(process.env.PORT || 3000, () => {
-  console.log("Server running");
-});
+// app.listen(process.env.PORT || 3000, () => {
+//   console.log("Server running");
+// });
+export default app;
